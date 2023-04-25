@@ -1,2 +1,2 @@
 # crud-service-springboot
-simple crud application using spring boot 
+simple crud application service using spring boot 

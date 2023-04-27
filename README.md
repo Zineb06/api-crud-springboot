@@ -1,5 +1,5 @@
 # crud-service-springboot
-simple api crud application using spring boot for books management used with maven and h2 database
+simple api crud application using spring boot for books management created using maven and h2 database
 # Requirements
 -IDE(eclipse, intelliJ, VSCode...) <br />
 -JDK <br />
